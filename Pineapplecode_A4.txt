@@ -1,0 +1,104 @@
+Team Name: Pineapplecode
+
+Total mark for A4 : 71/75(94.6%)   
+
+
+
+Implementation (Max 30 marks)
+
+Issue #1 (implemented) (20 marks)
+- Correctness (14 marks)
+  [0 marks: No work done.]
+  [1-4 marks: Implementation does not work or does not make sense.]
+  [5-8 marks: Implementation works but could significantly improve.]
+  [9-11 marks: Implementation is efficient and clean but not scalable]
+  [12-14 marks: Implementation is efficient, scalable and clean]
+
+  Correctness mark: 14
+
+- Quality, style, documentation of the code (6 marks)
+  [0 marks: No examination]
+  [1-2 marks: Examination is inaccurate]
+  [3-4 marks: Examination is somewhat accurate, but explained with code]
+  [5-6 marks: Examination is accurate and explained with code]
+
+  Documentation mark: 6
+
+Issue #2 (unimplemented) (10 marks)
+
+- Correctness (6 marks)
+  [0 marks: No work done.]
+  [1 marks: Implementation does not work or does not make sense.]
+  [2-3 marks: Implementation works but could significantly improve.]
+  [4-5 marks: Implementation is efficient and clean but not scalable]
+  [6 marks: Implementation is efficient, scalable and clean]
+
+  Correctness mark: 6
+
+- Quality, style, documentation of the code (4 marks)
+  [0 marks: No examination]
+  [1 marks: Examination is inaccurate]
+  [2-3 marks: Examination is somewhat accurate, but explained with code]
+  [4 marks: Examination is accurate and explained with code]
+
+  Documentation mark: 4
+
+Testing (Max 20 marks)
+
+- Acceptance test suite (10 marks)
+  - Acceptance test well documented.[0 marks: not documented, 1-2marks: poor documentation quality, 3-4marks: good documentation] (4/4)
+  - Addresses the problem/goal. [0 marks: does not address problem, 1-2marks: relates to problem, 3-4 marks: addresses problem directly] (4/4)
+  - Acceptance test follows a standard format.[0 marks: no format present, 1 mark: non-standard format present, 2marks: follows a standard format] (2/2)
+
+Acceptance test mark: 10
+ 
+- Unit test (10 marks)
+  - Test suite is well designed and covers all cases.[0 marks: no test suite, 1mark: minimal cases covered, 2-3 mark: most cases covered, 4 marks: all cases covered ] (4/4)
+  - Test cases passed when executes. [0 marks: All tests failed/unable to run, 1 mark: some tests passed,  2 mark: All tests passed] (2/2)
+  - Test cases are documented and have informative names. [0 marks: no documentation/comments, 1-2 mark: some documentation, 3-4 mark: detailed documentation and descriptive names] (0/4)
+
+Unit test mark: 6
+
+User Guide(s) (max 5 marks)
+  [0 marks: No documentation]
+  [1-2 marks: Some user guide but missing major components.]
+  [3-4 marks: Adequate user guide that addresses changes to the code.]
+  [5 marks: Clear and detailed user guide that covers all information a user will need regarding the issue.]
+
+User Guide mark: 5/5
+
+Design Document (max 5 marks)
+  [0 marks: No documentation]
+  [1-2 marks: Some design documentation but missing major components.]
+  [3-4 marks: adequate design document that describes the architecture but has areas for improvement.]
+  [5 marks: Clear and informative design document that describes the architecture in detail.]
+
+Design Document mark: 5/5
+
+Presentation (max 5 marks)
+   - Table of contents or navigation is present [0 marks: not present, 1 mark: present] (1/1)
+   - First impression of documentation is professional [0 marks: hard to read or unprofessional, 1 mark: layout is professional] (1/1)
+   - Sequence of structure makes sense [0 marks: not present or items are all over the place, 1 mark: sequence of presentation is sensible] (1/1)
+   - Overall impression [0 marks: not well done/looks like no effort, 1 mark: somewhat decent/could use more effort, 2 marks: marker is impressed or pleased] (2/2)
+	
+   Your mark: 5
+
+
+
+Quality (max 5 marks)
+  - Writing language
+    [5 marks : No grammar or spelling mistakes. Sentences are professional.]
+    [4 marks : One or two grammar/spelling mistakes.]
+    [3 marks : Multiple grammar/spelling mistakes.]
+    [2 marks : Broken sentences everywhere.]
+    [1 marks : Only bullet points and/or vague sentences that don't have meaning.]
+    [0 marks : Lack of writing and definition of items.]
+
+   Your mark 5
+
+
+
+Interview (Max 5 marks)
+- Start from 5 marks and deduct 1 mark for each incorrect answer.
+
+Your mark 5
